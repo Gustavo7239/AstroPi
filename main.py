@@ -1,1 +1,7 @@
-print("Hola mundo AstroPi")
+#Variables
+
+
+#Metodos
+
+
+print("Hola Mundo")
