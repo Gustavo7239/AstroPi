@@ -1,5 +1,5 @@
 #Variables
-
+perro = "azul"
 
 #Metodos
 
