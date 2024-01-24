@@ -1,5 +1,5 @@
 #Variables
-
+print("hola")
 
 #Metodos
 
