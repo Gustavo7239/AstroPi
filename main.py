@@ -1,5 +1,5 @@
 #Variables
-numero = 212
+
 
 #Metodos
 
